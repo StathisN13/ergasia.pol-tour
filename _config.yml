@@ -26,7 +26,7 @@ github_username:  StathisN13
 
 # Build settings
 markdown: kramdown
-theme: freelancer-theme
+theme: minima
 plugins:
   - jekyll-feed
 
