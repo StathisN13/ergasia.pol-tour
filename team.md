@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Μέλη της Ομάδας"
-permalink: /about/
+permalink: /team/
 ---
 
 # Η Ομάδα μας
