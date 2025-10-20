@@ -19,9 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από τους Μουζακίτη Θεοδώρα και Νίνο Ευστάθιο
   στα πλαίσια εργασίας του μαθήματος Εργαλεία προβολής πολιτιστικού και τουριστικού προϊόντος
   του ΠΜΣ ................. του Ιονίου Πανεπιστημίου.
-baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+baseurl: "ergasiapol-tour" # the subpath of your site, e.g. /blog
+url: "dmousnin" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  StathisN13
 
 # Build settings
