@@ -6,7 +6,7 @@ layout: home
 top_image: https://upload.wikimedia.org/wikipedia/commons/9/94/Wide_brown_land_art-work.JPG
 ---
 <div style="text-align:center;">
-  <img src="/assets/images/corfu.jpg" >
+  <img src="/assets/images/corfu.jpg" alt="" style="max-width:80%; height:auto;" >
 </div>
 
 Καλώς ήρθατε στον ιστοχώρο μας!  
