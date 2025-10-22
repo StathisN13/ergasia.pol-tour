@@ -26,7 +26,7 @@ github_username:  StathisN13
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/modernist@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
