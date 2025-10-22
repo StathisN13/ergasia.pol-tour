@@ -5,9 +5,7 @@
 layout: home
 top_image: https://upload.wikimedia.org/wikipedia/commons/9/94/Wide_brown_land_art-work.JPG
 ---
-<div style="text-align:center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Wide_brown_land_art-work.JPG" alt="Καλώς ήρθατε" style="max-width:80%; height:auto;">
-</div>
+<img src="/assets/images/corfu.jpg
 Καλώς ήρθατε στον ιστοχώρο μας!  
 Αναπτύχθηκε στο πλαίσιο του μαθήματος *Εργαλεία προβολής πολιτιστικού και τουριστικού προϊόντος* του Ιονίου Πανεπιστημίου.
 
